@@ -1,0 +1,19 @@
+{
+    "name": "zenstruck/media",
+    "description": "Library for managing media filesystems and files.",
+    "keywords": ["media", "filesystem"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Bond",
+            "email": "kevinbond@gmail.com"
+        },
+        {
+            "name": "Alexander Janssen",
+            "email": "a.janssen@tnajanssen.nl"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Zenstruck\\Media\\": "src" }
+    }
+}
